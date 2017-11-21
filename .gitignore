@@ -1,7 +1,6 @@
 node_modules/
 bower_components/
 npm-debug.log*
-dist/
 sessions/
 .idea
 *.iml
@@ -20,5 +19,4 @@ notes/
 .DS_Store
 .deps_check
 test/specmap/data/private
-browser
 package-lock.json
